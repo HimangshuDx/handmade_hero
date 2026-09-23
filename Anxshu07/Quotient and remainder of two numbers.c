@@ -7,7 +7,7 @@ int main()
     scanf("%f%f", &num1,&num2);
 
     div=num1/num2;
-    mod=num1/num2;
+    mod= (int)num1 % (int)num2;
 
     printf("\n\nQuotient: %.2f \nRemainder: %d", div, mod);
 
