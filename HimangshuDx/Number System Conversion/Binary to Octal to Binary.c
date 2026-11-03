@@ -56,7 +56,6 @@ void Octal_Binary()
         {   printf("Invalid octal number.\n");
             return;
         }
-
         decimal = decimal + rem * base;
         base = base * 8;
         temp = temp / 10;
