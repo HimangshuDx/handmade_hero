@@ -38,6 +38,7 @@
 32. Write a C program to calculate grades based on marks. 
 
 **Loops — Basic** 
+
 33. Write a C program to print numbers from 1 to n. 
 34. Write a C program to print numbers from n to 1. 
 35. Write a C program to print all even numbers from 1 to n. 
@@ -50,10 +51,10 @@
 42. Write a C program to print all multiples of 5 between 1 and n. 
 43. Write a C program to find the sum of all numbers divisible by 3 between 1 and n. 
 44. Write a C program to find the sum of all numbers divisible by 5 between 1 and n. 
-45. Write a C program to find the sum of all numbers divisible by both 3 and 5 between 1 
-and n. 
+45. Write a C program to find the sum of all numbers divisible by both 3 and 5 between 1 and n. 
 
 **Alphabets & ASCII**
+
 46. Write a C program to print all alphabets from a to z using a while loop. 
 47. Write a C program to print all alphabets from z to a. 
 48. Write a C program to print all uppercase alphabets from A to Z. 
@@ -69,6 +70,7 @@ and n.
 58. Write a C program to input an ASCII value and print its corresponding character. 
 
 **Number & Digit Problems** 
+
 59. Write a C program to count the number of digits in a number. 
 60. Write a C program to find the first digit of a number. 
 61. Write a C program to find the last digit of a number. 
@@ -93,6 +95,7 @@ and n.
 80. Write a C program to swap the first and last digit of a number. 
 
 **Number Properties**
+
 81. Write a C program to check whether a number is a palindrome. 
 82. Write a C program to print all palindrome numbers between 1 and n. 
 83. Write a C program to check whether a number is an Armstrong number. 
@@ -111,6 +114,7 @@ and n.
 96. Write a C program to calculate the digital root of a number. 
 
 **Power & Factorial**
+
 97. Write a C program to find the power of a number using a for loop. 
 98. Write a C program to calculate the square of a number using a loop. 
 99. Write a C program to calculate the cube of a number using a loop. 
@@ -123,6 +127,7 @@ and n.
 106. Write a C program to calculate nCr using factorial. 
 
 **Factors, HCF & LCM**
+
 107. Write a C program to find all factors of a number. 
 108. Write a C program to count the number of factors of a number. 
 109. Write a C program to find the sum of all factors of a number. 
@@ -136,6 +141,7 @@ and n.
 117. Write a C program to check whether two numbers are co-prime. 
 
 **Prime Numbers**
+
 118. Write a C program to check whether a number is prime. 
 119. Write a C program to print all prime numbers up to a given number n. 
 120. Write a C program to print all prime numbers between two given numbers. 
@@ -147,6 +153,7 @@ and n.
 126. Write a C program to check whether two numbers are twin primes. 
 
 **Fibonacci** 
+
 127. Write a C program to print the Fibonacci series up to n terms. 
 128. Write a C program to print Fibonacci numbers less than n. 
 129. Write a C program to find the nth Fibonacci number. 
@@ -156,6 +163,7 @@ and n.
 133. Write a C program to print only odd Fibonacci numbers up to n. 
 
 **Number System Conversion**
+
 134. Write a C program to convert a binary number to a decimal number. 
 135. Write a C program to convert a decimal number to binary. 
 136. Write a C program to convert a binary number to an octal number. 
@@ -175,6 +183,7 @@ and n.
 150. Write a C program to count the number of 0s in a binary number. 
 
 **Patterns & Nested Loops**
+
 151. Write a C program to print a square pattern of stars. 
 152. Write a C program to print a rectangle pattern of stars. 
 153. Write a C program to print a right-angled triangle of stars. 
@@ -192,6 +201,7 @@ and n.
 165. Write a C program to print numbers in a matrix-like pattern. 
 
 **Switch Case**
+
 166. Write a C program to create a calculator using switch. 
 167. Write a C program to perform addition, subtraction, multiplication and division using switch. 
 168. Write a C program to display the day of the week using switch. 
