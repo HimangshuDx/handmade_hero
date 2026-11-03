@@ -21,8 +21,9 @@
 18. Write a C program to exchange two floating-point variables. 
 
 **Conditional Statements**
-19. Write a C program to check whether a number is positive, negative or zero. 
-20. Write a C program to check whether a number is even or odd. 
+
+19. Write a C program to check whether a number is positive, negative or zero.
+20. Write a C program to check whether a number is even or odd.
 21. Write a C program to find the largest of two numbers. 
 22. Write a C program to find the largest of three numbers. 
 23. Write a C program to find the smallest of two numbers. 
