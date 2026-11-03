@@ -17,7 +17,6 @@ void Binary_Decimal()
         {   printf("Invalid binary number!");
             break;
         }
-
         decimal = decimal + last * base;
         base = base * 2;
         temp = temp / 10;

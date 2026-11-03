@@ -22,7 +22,6 @@ void Binary_Octal()
         {   printf("Invalid binary number.\n");
             return;
         }
-
         decimal = decimal + rem * base;
         base = base * 2;
         temp = temp / 10;
