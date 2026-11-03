@@ -20,7 +20,7 @@
 17. Write a C program to swap three variables. 
 18. Write a C program to exchange two floating-point variables. 
 
-**Conditional Statements** 
+**Conditional Statements**
 19. Write a C program to check whether a number is positive, negative or zero. 
 20. Write a C program to check whether a number is even or odd. 
 21. Write a C program to find the largest of two numbers. 
@@ -52,7 +52,7 @@
 45. Write a C program to find the sum of all numbers divisible by both 3 and 5 between 1 
 and n. 
 
-**Alphabets & ASCII** 
+**Alphabets & ASCII**
 46. Write a C program to print all alphabets from a to z using a while loop. 
 47. Write a C program to print all alphabets from z to a. 
 48. Write a C program to print all uppercase alphabets from A to Z. 
@@ -91,7 +91,7 @@ and n.
 79. Write a C program to find the difference between a number and its reverse. 
 80. Write a C program to swap the first and last digit of a number. 
 
-**Number Properties** 
+**Number Properties**
 81. Write a C program to check whether a number is a palindrome. 
 82. Write a C program to print all palindrome numbers between 1 and n. 
 83. Write a C program to check whether a number is an Armstrong number. 
@@ -109,7 +109,7 @@ and n.
 95. Write a C program to print all spy numbers between 1 and n. 
 96. Write a C program to calculate the digital root of a number. 
 
-**Power & Factorial** 
+**Power & Factorial**
 97. Write a C program to find the power of a number using a for loop. 
 98. Write a C program to calculate the square of a number using a loop. 
 99. Write a C program to calculate the cube of a number using a loop. 
@@ -134,7 +134,7 @@ and n.
 116. Write a C program to find both HCF and LCM of two numbers. 
 117. Write a C program to check whether two numbers are co-prime. 
 
-**Prime Numbers** 
+**Prime Numbers**
 118. Write a C program to check whether a number is prime. 
 119. Write a C program to print all prime numbers up to a given number n. 
 120. Write a C program to print all prime numbers between two given numbers. 
@@ -154,7 +154,7 @@ and n.
 132. Write a C program to print only even Fibonacci numbers up to n. 
 133. Write a C program to print only odd Fibonacci numbers up to n. 
 
-**Number System Conversion** 
+**Number System Conversion**
 134. Write a C program to convert a binary number to a decimal number. 
 135. Write a C program to convert a decimal number to binary. 
 136. Write a C program to convert a binary number to an octal number. 
@@ -173,7 +173,7 @@ and n.
 149. Write a C program to count the number of 1s in a binary number. 
 150. Write a C program to count the number of 0s in a binary number. 
 
-**Patterns & Nested Loops** 
+**Patterns & Nested Loops**
 151. Write a C program to print a square pattern of stars. 
 152. Write a C program to print a rectangle pattern of stars. 
 153. Write a C program to print a right-angled triangle of stars. 
